@@ -1,0 +1,7 @@
+transformers
+sentence-transformers
+torch
+openai
+scikit-learn
+tqdm
+nltk
